@@ -1,0 +1,5 @@
+Black and white images only for morphological.
+
+Region growing for grey scale images.
+
+Variant: M7
